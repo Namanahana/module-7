@@ -1,3 +1,4 @@
-Fire Guard adalah Bot Discord yang dibuat untuk mendeteksi sebuah gambar dan menyelidiki a[akah ada kebakaran hutan atau tidak.
+Halo teman-teman semua😊, pada kesempatan kali ini saya dan rekan-rekan Kodland telah berhasil mengembangkan sebuah Bot AI yang bernama FireGuard🔥. Namun sebelum itu saya ingin mengucapkan terima kasih banyak kepada Hazraf dan Rafa karena telah berkontribusi banyak dalam projek kali ini. Bot ini berfungsi untuk mendeteksi sebuah gambar atau citra satelit dan menyelidiki apakah ada potensi terjadi kebakaran hutan atau tidak pada suatu area. Harapan Bot ini untuk kedepannya dapat dimodifikasi lebih lanjut sehingga dapat memberikan informasi secara up-to-date dan akurat yang berguna untuk satuan atau instansi yang bertugas di bidang pengawasan dan penjagaan hutan. JIka kalian ingin melihat projek apa yang dibuat oleh kami, anda dapat melihatnya di GitHub saya atau Hazraf [hazraf2009](https://github.com/hazraf2009/CTTK-KodlandBot)
 
+Berikut adalah demonstrasinya: 
 ![Demonstrasi Bot](https://github.com/user-attachments/assets/9527a31b-7e17-40c7-9adb-979b61e644f2)
